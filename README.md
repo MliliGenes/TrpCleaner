@@ -1,4 +1,4 @@
-# TrpCleaner v3 — campus-style TUI
+# TrpCleaner v3
 
 Native Linux cache cleaner with an action menu, a read-only scan and a
 Makefile. C++17, POSIX/Linux APIs and the C++ standard library. No Python,
